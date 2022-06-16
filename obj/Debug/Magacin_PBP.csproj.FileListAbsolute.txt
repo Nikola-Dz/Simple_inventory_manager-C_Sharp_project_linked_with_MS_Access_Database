@@ -1,0 +1,10 @@
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\bin\Debug\Magacin_PBP.exe.config
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\bin\Debug\Magacin_PBP.exe
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\bin\Debug\Magacin_PBP.pdb
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.Form_Magacin.resources
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.Properties.Resources.resources
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.csproj.GenerateResource.cache
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.csproj.CoreCompileInputs.cache
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.exe
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.pdb
+D:\Projekte D\VisualStuidoProjects D\Magacin_PBP\obj\Debug\Magacin_PBP.csprojAssemblyReference.cache
